@@ -1,1 +1,6 @@
 # wallmart_case_study
+Wallmart Project
+Importing the Dataset and Data Analysis: • Import the dataset. • Check the structure and characteristics of the dataset. • Detect null values and outliers using boxplots, descriptive statistics, and checking for null values.
+Data Exploration: • Track the amount spent per transaction for male and female customers. • Calculate the average spending for male and female customers. • Infer insights based on the computed averages. • Use the sample average to find confidence intervals for average spending of male and female customers. • Utilize the Central Limit Theorem to compute the intervals and observe the distribution of mean expenses. • Experiment with different confidence levels (90%, 95%, etc.) and report observations. • Conclude by determining if confidence intervals overlap or not.
+Comparison based on Marital Status and Age: • Repeat the above steps for married vs. unmarried customers and different age groups (e.g., 0-17, 18-25, etc.).
+Recommendations and Action Items: • Based on the analysis, provide recommendations and action items for Walmart to leverage the insights gained. For example, optimizing marketing strategies, tailoring products to specific demographics, or improving customer experience.
